@@ -108,7 +108,7 @@ h1{
 p{
     text-align: center;
     color: #fdfdfd;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .texto1{
@@ -165,19 +165,46 @@ p{
     display: flex;
     flex-direction: column;
     width: 60%;
-
-    
 }
 .texto-da-marca1{
     font-size: 30px;
     text-align: left;
 }
-
 span{
     color: #be0267;
 }
 
 html, body {
     height: 100%;
-  }
+}
  
+  .contrato{
+    position: relative;
+    bottom: 225px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .internett{
+    position: relative;
+    bottom: 225px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.somos{
+    position: relative;
+    bottom: 225px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.celular{
+    position: relative;
+    bottom: 225px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+  
